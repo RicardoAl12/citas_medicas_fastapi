@@ -1,6 +1,6 @@
 # Sistema de Gestión de Citas Médicas (FastAPI)
 
-## Backend para T.02.04
+## Backend para T_02.04
 
 ### Requisitos
 

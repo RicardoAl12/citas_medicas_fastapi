@@ -28,5 +28,8 @@ Swagger UI disponible en: http://localhost:8000/docs
 ### Autores
 
 - [Coloca aquí los nombres e integrantes del grupo]
-
+Alvaro Ricardo Maigua Collaguillo
+Bryan Eduardo Albuja Luque  
+Chasiquiza Chaquinga Magaly Guadalupe 
+Robinson Lenin Agual Andino 
 ---

@@ -26,8 +26,8 @@ Swagger UI disponible en: http://localhost:8000/docs
 - `/evidencias`: Guarda aquí tus capturas para el informe
 
 ### Autores
-Alvaro Ricardo Maigua Collaguillo
-Bryan Eduardo Albuja Luque  
-Chasiquiza Chaquinga Magaly Guadalupe 
-Robinson Lenin Agual Andino 
+- Alvaro Ricardo Maigua Collaguillo
+- Bryan Eduardo Albuja Luque  
+- Chasiquiza Chaquinga Magaly Guadalupe 
+- Robinson Lenin Agual Andino 
 ---
